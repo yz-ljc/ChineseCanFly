@@ -1,0 +1,11 @@
+name: ChineseCanFly
+version: '1.0-RELEASE'
+main: top.yzljc.chineseCanFly.ChineseCanFly
+api-version: '1.21'
+authors: [ YZ_Ljc_ ]
+description: ChineseCanFly
+website: https://space.bilibili.com/592616376
+commands:
+  ccf:
+    description: 开启或关闭自身飞行（限中文客户端）
+    usage: /ccf
